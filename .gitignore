@@ -1,0 +1,19 @@
+# Compiled Java files
+*.class
+out/
+build/
+
+# IDE files
+.idea/
+.vscode/
+
+# Configuration and secrets
+config/application.properties
+.env
+
+# Logs
+*.log
+
+# Operating system
+.DS_Store
+Thumbs.db
